@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-activiti-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-data-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-elasticsearch-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-jpa-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-mybatis-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-mybatis-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-mybatis-shardingjdbc-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-oauth2-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-quartz-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-queue-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-rabbit-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-searchengine-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-shiro-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-shiro-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-sleuth-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-social-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-social-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-example-workflow-feign" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="daijie-example-activiti-cloud" />
+        <module name="daijie-example-admin-server" />
+        <module name="daijie-example-config-server" />
+        <module name="daijie-example-data-feign" />
+        <module name="daijie-example-elasticsearch-cloud" />
+        <module name="daijie-example-eureka-server" />
+        <module name="daijie-example-jpa-cloud" />
+        <module name="daijie-example-mybatis-cloud" />
+        <module name="daijie-example-mybatis-model" />
+        <module name="daijie-example-mybatis-shardingjdbc-cloud" />
+        <module name="daijie-example-oauth2-server" />
+        <module name="daijie-example-quartz-cloud" />
+        <module name="daijie-example-queue-feign" />
+        <module name="daijie-example-rabbit-cloud" />
+        <module name="daijie-example-searchengine-feign" />
+        <module name="daijie-example-shiro-api" />
+        <module name="daijie-example-shiro-server" />
+        <module name="daijie-example-sleuth-server" />
+        <module name="daijie-example-social-cloud" />
+        <module name="daijie-example-social-feign" />
+        <module name="daijie-example-workflow-feign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="daijie-example" target="1.8" />
+      <module name="daijie-example-activiti-cloud" target="1.8" />
+      <module name="daijie-example-admin-server" target="1.8" />
+      <module name="daijie-example-config-server" target="1.8" />
+      <module name="daijie-example-data-feign" target="1.8" />
+      <module name="daijie-example-elasticsearch-cloud" target="1.8" />
+      <module name="daijie-example-eureka-server" target="1.8" />
+      <module name="daijie-example-jpa-cloud" target="1.8" />
+      <module name="daijie-example-mybatis-cloud" target="1.8" />
+      <module name="daijie-example-mybatis-model" target="1.8" />
+      <module name="daijie-example-mybatis-shardingjdbc-cloud" target="1.8" />
+      <module name="daijie-example-oauth2-server" target="1.8" />
+      <module name="daijie-example-quartz-cloud" target="1.8" />
+      <module name="daijie-example-queue-feign" target="1.8" />
+      <module name="daijie-example-rabbit-cloud" target="1.8" />
+      <module name="daijie-example-searchengine-feign" target="1.8" />
+      <module name="daijie-example-shiro-api" target="1.8" />
+      <module name="daijie-example-shiro-server" target="1.8" />
+      <module name="daijie-example-sleuth-server" target="1.8" />
+      <module name="daijie-example-social-cloud" target="1.8" />
+      <module name="daijie-example-social-feign" target="1.8" />
+      <module name="daijie-example-workflow-feign" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

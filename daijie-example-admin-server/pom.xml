@@ -18,17 +18,17 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
-			<version>1.5.10.RELEASE</version>
+			<version>2.0.1.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-configuration-processor</artifactId>
-			<version>1.5.10.RELEASE</version>
+			<version>2.0.1.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-config</artifactId>
-			<version>1.4.3.RELEASE</version>
+			<version>2.0.1.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>de.codecentric</groupId>
@@ -48,12 +48,12 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-turbine</artifactId>
-			<version>1.4.3.RELEASE</version>
+			<version>1.4.4.RELEASE</version>
 		</dependency>
 		<dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-netflix-turbine</artifactId>
-			<version>1.4.3.RELEASE</version>
+			<version>1.4.4.RELEASE</version>
         </dependency>
 	</dependencies>
 </project>

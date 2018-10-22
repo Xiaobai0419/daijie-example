@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/daijie-example.iml" filepath="$PROJECT_DIR$/daijie-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-activiti-cloud/daijie-example-activiti-cloud.iml" filepath="$PROJECT_DIR$/daijie-example-activiti-cloud/daijie-example-activiti-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-admin-server/daijie-example-admin-server.iml" filepath="$PROJECT_DIR$/daijie-example-admin-server/daijie-example-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-config-server/daijie-example-config-server.iml" filepath="$PROJECT_DIR$/daijie-example-config-server/daijie-example-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-data-feign/daijie-example-data-feign.iml" filepath="$PROJECT_DIR$/daijie-example-data-feign/daijie-example-data-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-elasticsearch-cloud/daijie-example-elasticsearch-cloud.iml" filepath="$PROJECT_DIR$/daijie-example-elasticsearch-cloud/daijie-example-elasticsearch-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-eureka-server/daijie-example-eureka-server.iml" filepath="$PROJECT_DIR$/daijie-example-eureka-server/daijie-example-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-jpa-cloud/daijie-example-jpa-cloud.iml" filepath="$PROJECT_DIR$/daijie-example-jpa-cloud/daijie-example-jpa-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-mybatis-cloud/daijie-example-mybatis-cloud.iml" filepath="$PROJECT_DIR$/daijie-example-mybatis-cloud/daijie-example-mybatis-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-mybatis-model/daijie-example-mybatis-model.iml" filepath="$PROJECT_DIR$/daijie-example-mybatis-model/daijie-example-mybatis-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-mybatis-shardingjdbc-cloud/daijie-example-mybatis-shardingjdbc-cloud.iml" filepath="$PROJECT_DIR$/daijie-example-mybatis-shardingjdbc-cloud/daijie-example-mybatis-shardingjdbc-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-oauth2-server/daijie-example-oauth2-server.iml" filepath="$PROJECT_DIR$/daijie-example-oauth2-server/daijie-example-oauth2-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-quartz-cloud/daijie-example-quartz-cloud.iml" filepath="$PROJECT_DIR$/daijie-example-quartz-cloud/daijie-example-quartz-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-queue-feign/daijie-example-queue-feign.iml" filepath="$PROJECT_DIR$/daijie-example-queue-feign/daijie-example-queue-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-rabbit-cloud/daijie-example-rabbit-cloud.iml" filepath="$PROJECT_DIR$/daijie-example-rabbit-cloud/daijie-example-rabbit-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-searchengine-feign/daijie-example-searchengine-feign.iml" filepath="$PROJECT_DIR$/daijie-example-searchengine-feign/daijie-example-searchengine-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-shiro-api/daijie-example-shiro-api.iml" filepath="$PROJECT_DIR$/daijie-example-shiro-api/daijie-example-shiro-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-shiro-server/daijie-example-shiro-server.iml" filepath="$PROJECT_DIR$/daijie-example-shiro-server/daijie-example-shiro-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-sleuth-server/daijie-example-sleuth-server.iml" filepath="$PROJECT_DIR$/daijie-example-sleuth-server/daijie-example-sleuth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-social-cloud/daijie-example-social-cloud.iml" filepath="$PROJECT_DIR$/daijie-example-social-cloud/daijie-example-social-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-social-feign/daijie-example-social-feign.iml" filepath="$PROJECT_DIR$/daijie-example-social-feign/daijie-example-social-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-example-workflow-feign/daijie-example-workflow-feign.iml" filepath="$PROJECT_DIR$/daijie-example-workflow-feign/daijie-example-workflow-feign.iml" />
+    </modules>
+  </component>
+</project>

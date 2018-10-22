@@ -46,7 +46,7 @@
 				<artifactId>daijie-jdbc-plugin</artifactId>
 				<version>${daijie.version}</version>
 				<configuration>
-					<url>jdbc:mysql://localhost:3306/demo?user=root&amp;password=123456&amp;useUnicode=true&amp;charaterEncoding=utf-8</url>
+					<url>jdbc:mysql://localhost:3306/demo?user=root&amp;password=root&amp;useUnicode=true&amp;charaterEncoding=utf-8</url>
 					<path>d://doc.html</path>
 				</configuration>
 			</plugin>
